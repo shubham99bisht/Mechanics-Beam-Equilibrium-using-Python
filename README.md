@@ -1,1 +1,1 @@
-# Mechanics-Beam-Equilibrium-using-Python
+# Mechanics Beam Equilibrium using Python
